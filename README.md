@@ -42,7 +42,9 @@ Acessar o [notebook](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C84
 
 ## Slides da Apresentação do Projeto
 
-[Clique aqui para ver os Slides.](#)## Autores - Grupo 2
+[Clique aqui para ver os Slides.](https://docs.google.com/presentation/d/1C6CFQUvbGhtPgVnTvOE6WZNzvkrjZrYZ/edit?usp=sharing&ouid=116320725179666875133&rtpof=true&sd=true)
+
+## Autores - Grupo 2
 ### Para acessar o perfil de cada contribuinte basta clicar na foto e você será redirecionado para o perfil do mesmo.
 
 [![Bruno Arruda](./img/bruno_ccexpress.jpeg)][ss1]
