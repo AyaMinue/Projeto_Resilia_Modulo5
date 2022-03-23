@@ -1,12 +1,12 @@
 
-# Analises de dados usando Pandas - Resilia Módulo 5
+# Análises de dados usando Pandas - Resilia Módulo 5
 
 Neste projeto foram realizadas análises exploratórias sobre o gasto dos parlamentares brasileiros durante o período de 2019, 2020 e 2021. Para isso, será utilizado o conjunto de dados sobre a Cota para o Exercício da Atividade Parlamentar, a CEAP.
 
 
 
 
-## Para visualizar as analises será necessário:
+## Para visualizar as análises será necessário:
 Acessar o [notebook](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C849L5paOa_3taqEl#scrollTo=VnbSEvpL11Pa) e rodar todas células em ordem.
 
 
