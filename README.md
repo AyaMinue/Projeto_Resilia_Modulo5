@@ -7,7 +7,7 @@ Neste projeto foram realizadas análises exploratórias sobre o gasto dos parlam
 
 
 ## Para visualizar as análises será necessário:
-Acessar o [notebook](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C849L5paOa_3taqEl#scrollTo=VnbSEvpL11Pa) e rodar todas células em ordem.
+Acessar o [notebook](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C849L5paOa_3taqEl#scrollTo=QgQzPPtG0nmK) e rodar todas células em ordem.
 
 
 
