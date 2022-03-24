@@ -37,7 +37,7 @@ Acessar o [notebook](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C84
 
 12. [Há alguma correlação entre a quantidade de parlamentares por partido e o valor total dos gastos?](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C849L5paOa_3taqEl#scrollTo=_zEnM2dVv9W8)
 
-13. [Qual é a quantidade de representantes registrados por Partido?](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C849L5paOa_3taqEl#scrollTo=vPuW1S4d-Ieo)
+13. [Qual é a quantidade de representantes registrados por Partido?](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C849L5paOa_3taqEl#scrollTo=D4YySlsHamIP)
 
 14. [Quais são os meses que tendem a ter gastos maiores?](https://colab.research.google.com/drive/1Q3SkE-yQE6Gxrr2C849L5paOa_3taqEl#scrollTo=WXPjPn_p0a5I)
 
